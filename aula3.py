@@ -1,3 +1,8 @@
+"""
+este código tem a função de somar números, seja dois, três ou quatro números e mostrar o resultado.
+
+"""
+
 def add_two_numbers(num_one, num_two):
     total = num_one + num_two
     print(total)
@@ -12,4 +17,4 @@ def add_four(num_one, num_two, num_three, num_four):
 
 add_two_numbers(2, 3)
 add_three_numbers(3, 4, 5)
-add_four(10, 20, 30, 40)
+add_four(10, 20, 30, 50)
